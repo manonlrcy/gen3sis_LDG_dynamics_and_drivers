@@ -4,9 +4,9 @@ Manon Lorcery, Laurent Husson, Tristan Salles, Sébastien Lavergne, Oskar Hagen,
 ## Data
 Parameter table
 
----
+```
 params_table.txt
----
+```
 
 ## Scripts 
 ### Gen3sis Configuration:
